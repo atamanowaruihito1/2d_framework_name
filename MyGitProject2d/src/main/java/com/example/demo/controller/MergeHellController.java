@@ -13,7 +13,6 @@ public class MergeHellController {
 		for (int i = 0; i < 10; i++) {
 			System.out.println("現在" + i + "回目です");
 		}
-
 	}
 
 	static void kadaiC() {
